@@ -1,0 +1,12 @@
+This is an R package for the analysis of spatial data
+
+These functions have been set up to deal with spatial data that is provided by Birdlife International and NatureServe, however some functions should work with any spatial data. If you are interested in modifications for use with general spatial data, please contact me.
+
+If there are extra functions you would like to see encorporated, also feel free to contact me.
+
+
+If you use this package, please use the following citation:
+
+Crouch, N. M. A., 2014, RDH: Range Data Helper - functions to aid analysis of avian spatial data, https://github.com/NickCrouch/RDH
+
+
